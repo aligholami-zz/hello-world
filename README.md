@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-i'm an electerical engineer
+I'm an electerical engineer
